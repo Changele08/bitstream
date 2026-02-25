@@ -3,6 +3,10 @@ Header-only C++ bitstream library supporting arbitrary bit width operations, see
 
 BitStream 是一个头文件-only 的 C++17 库，提供高效的比特级读写操作。它允许你以任意位宽度读写数据，支持内存缓冲区、std::vector 和固定大小缓冲区，并提供了流式语法（<</>>）和宽度设置。
 
+<div align="right">
+  <a href="README.en.md">English</a> | <a href="README.md">简体中文</a>
+</div>
+
 ## 特性
 
 * 任意位宽读写：支持 0~64 位的读取和写入。
